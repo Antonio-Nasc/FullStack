@@ -1,0 +1,4 @@
+title = titulo
+h1 = cabeçalho
+p = paragrafo
+hr = linha horizontal
